@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var output = function (text) {
+const output = (text) => {
     return text;
 };
 console.log(output('Hello World'));
